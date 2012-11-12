@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+before${1:Each}(function (${2:done}) {
+  ${3:// test!}
+});
+]]></content>
+	<tabTrigger>befr</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

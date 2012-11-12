@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+describe('${1:what?}', function () {
+  it('${2:should do what?}', function (${3:done}) {
+    ${4:// test!}
+  });
+});
+]]></content>
+	<tabTrigger>desc</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
