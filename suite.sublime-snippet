@@ -1,0 +1,17 @@
+<snippet>
+<content><![CDATA[suite( '${1:suiteName}', function() {
+  ${2:setup(function(){
+    ${3}
+  });}
+
+  ${4:teardown(function(){
+    ${5}
+  });}
+
+  ${6}
+});]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>suite</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>
