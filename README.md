@@ -6,7 +6,7 @@ Install from Sublime's Package Control.
 
 This package has five snippets, use as follows:
 
-	describe<tab>
+	desc<tab>
 	befr<tab>
 	aftr<tab>
 	suite<tab>
