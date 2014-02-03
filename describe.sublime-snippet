@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 describe('${1:what?}', function () {
-	${0:}
+	${0:it}
 });
 ]]></content>
 	<tabTrigger>desc</tabTrigger>
