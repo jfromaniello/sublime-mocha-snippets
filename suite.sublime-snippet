@@ -1,5 +1,5 @@
 <snippet>
-<content><![CDATA[suite( '${1:suiteName}', function() {
+<content><![CDATA[suite('${1:suiteName}', function() {
 	${2:setup(function(){
 		${3}
 	\});}
