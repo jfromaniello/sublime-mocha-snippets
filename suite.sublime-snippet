@@ -1,10 +1,10 @@
 <snippet>
-<content><![CDATA[suite('${1:suiteName}', function() {
-	${2:setup(function(){
+<content><![CDATA[suite('${1:suiteName}', () =>  {
+	${2:setup(() => {
 		${3}
 	\});}
 
-	${4:teardown(function(){
+	${4:teardown(() => {
 		${5}
 	\});}
 

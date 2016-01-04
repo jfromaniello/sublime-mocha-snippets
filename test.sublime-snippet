@@ -1,5 +1,5 @@
 <snippet>
-<content><![CDATA[test('${1:test}', function(${2:done}) {
+<content><![CDATA[test('${1:test}', (${2:done}) => {
 	${3}
 });]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
